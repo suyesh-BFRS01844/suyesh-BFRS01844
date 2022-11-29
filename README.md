@@ -10,11 +10,7 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="suyesh-BFRS01844's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suyesh-BFRS01844&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyesh-BFRS01844&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="suyesh-BFRS01844" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+
 
 ----
 
