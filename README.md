@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suyesh-BFRS01844&theme=algolia" alt="suyesh-BFRS01844" /></p>
 
 <br>
-
+<!-- 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -18,7 +18,7 @@
   <br/>
    <a href="https://github.com/suyesh-BFRS01844"><img alt="suyesh-BFRS01844's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suyesh-BFRS01844&custom_title=suyesh-BFRS01844's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+ -->
 
 <br/>
 
